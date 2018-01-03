@@ -8,10 +8,3 @@ SWIMCAT
 All images are fixed resolution 256×256 pixels with the JPEG format. 
 The dataset is released under a `creative commons license`. Please fill out this form to receive the download instructions.
 
-More details about the dataset can be found in the following paper:
-
-
-
-Please cite the above paper if you use the SWIMCAT dataset. 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
