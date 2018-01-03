@@ -1,4 +1,4 @@
-## Cirrus Cumulus Stratus Nimbus(CCSN) Datebase
+## Cirrus Cumulus Stratus Nimbus(CCSN) Database
 ---
 
 The CCSN dataset contains 2500 images of cloud images. According to the World Meterological Organization’s genera-based classification recommendation, we divide into 11 different categories： Ac, Sc, Ns, Cu, Ci, Cc, Cb, As, Ct, Cs, St. It is worth noting that contrails have consideration in our dataset. Representative sample images from each category are shown below.
