@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Cirrus Cumulus Stratus Nimbus(CCSN) Datebase
+---
 
-You can use the [editor on GitHub](https://github.com/upuil/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The CCSN dataset contains 2500 images of cloud images, categorized in 11 distinct categories: Ac, Sc, Ns, Cu, Ci, Cc, Cb, As, **Ct**, Cs, St . Representative sample images from each category are shown below.According to the World Meterological Organization’s genera-based classification recommendation, we divide into 11 different
+categories
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SWIMCAT
+All images are fixed resolution 256×256 pixels with the JPEG format. 
+The dataset is released under a `creative commons license`. Please fill out this form to receive the download instructions.
 
-### Markdown
+More details about the dataset can be found in the following paper:
 
+
+
+Please cite the above paper if you use the SWIMCAT dataset. 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/upuil/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
