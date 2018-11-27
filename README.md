@@ -8,3 +8,6 @@ The CCSN dataset contains 2500 images of cloud images. According to the World Me
 All images are fixed resolution 256×256 pixels with the JPEG format. 
 The dataset is released under a `creative commons license`. If you interest about this database, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSddYgxyOn2lCi-niz1zqJqtt6gYkAHky3C1dNCS8epLsddbPA/viewform?usp=sf_link) to receive the download instructions.
 
+More details about the CCSN dataset can be found in the following paper and please cite the this paper if you use the CCSN dataset.
+
+Zhang, J. L., Liu, P., Zhang, F., & Song, Q. Q. (2018). [CloudNet: Ground-based Cloud Classification with Deep Convolutional Neural Network. Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL077787), 45. https://doi.org/10.1029/2018GL077787
