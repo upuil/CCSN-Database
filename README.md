@@ -5,8 +5,8 @@ The CCSN dataset contains 2543 cloud images. According to the World Meterologica
 
 ![samples](/cloud_images.png "sample")
 
-All images are fixed resolution 256×256 pixels with the JPEG format. 
-If you interest about this database, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSddYgxyOn2lCi-niz1zqJqtt6gYkAHky3C1dNCS8epLsddbPA/viewform?usp=sf_link) or [this](http://upuil314.mikecrm.com/myRXbHS) to receive the download instructions.
+All images are fixed resolution 256×256 pixels with the JPEG format. This dataset can be downloaded from this link https://doi.org/10.7910/DVN/CADDPD. 
+~~If you interest about this database, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSddYgxyOn2lCi-niz1zqJqtt6gYkAHky3C1dNCS8epLsddbPA/viewform?usp=sf_link) or [this](http://upuil314.mikecrm.com/myRXbHS) to receive the download instructions.~~
 
 More details about the CCSN dataset can be found in the following paper and please cite the this paper if you use the CCSN dataset.
 ```
